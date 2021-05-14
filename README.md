@@ -1,2 +1,5 @@
 # git-learning
-This is test for learning git
+This is a repository for test git commands.
+
+## test1
+this is test1.
