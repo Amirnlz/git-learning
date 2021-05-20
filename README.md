@@ -15,3 +15,7 @@ omg this is new test.
 
 ## test5
 WTF! stop adding new test.
+
+### copyright
+yes yes you can use it.
+loool :P
