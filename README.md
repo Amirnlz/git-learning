@@ -11,7 +11,7 @@ this is test2.
 WTF! stop adding new test.
 
 ## Thanks
-thanks from brain to help us learn new thing.
+thanks from brain to help us learn new thing, and also from you to watching this shit.
 
 ### Copyright
 yes yes you can use it.
