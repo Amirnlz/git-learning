@@ -1,21 +1,18 @@
-# git-learning
+# Git-learning
 This is a repository for test git commands.
 
-## test1
+## Test1
 this is test1.
 
-## test2
+## Test2
 this is test2.
 
-## test3
-this is test3.
-
-## test4
-omg this is new test.
-
-## test5
+## Test3
 WTF! stop adding new test.
 
-### copyright
+## Thanks
+thanks from brain to help us learn new thing.
+
+### Copyright
 yes yes you can use it.
 loool :P
